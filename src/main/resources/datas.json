@@ -1,0 +1,699 @@
+[
+  {
+    "category": "G",
+    "whenFirst": "anarcho",
+    "whenSecond": "libertaire",
+    "sloganStart": [
+      "un ordre sans pouvoir,",
+      "une dissolution de la police"
+    ],
+    "sloganEnd": [
+      "autogéré",
+      "sans lois imposées",
+      "sans centralisation des pouvoirs"
+    ]
+  },
+  {
+    "category": "G",
+    "whenFirst": "autonome",
+    "whenSecond": "autonomes",
+    "sloganStart": [
+      "une société sans état",
+      "une abolition de l'état, du capital et des syndicats,",
+      "une abolition des organisations politiques"
+    ],
+    "sloganEnd": [
+      "sans organisations politique",
+      "en k-way noir",
+      "par des formes d'action insurrectionnelle ou illégale"
+    ]
+  },
+  {
+    "category": "D",
+    "whenFirst": "",
+    "whenSecond": "autoritaire",
+    "sloganStart": [
+      "une police nationale",
+      "une armée",
+      "l'ordre",
+      "une sécurité renforcée et"
+    ],
+    "sloganEnd": [
+      "qui marche au pas",
+      "qui se tient sage",
+      "avec plein de flashballs"
+    ]
+  },
+  {
+    "category": "G",
+    "whenFirst": "bolchévo",
+    "whenSecond": "bolchévique",
+    "sloganStart": [
+      "une libération du travail"
+    ],
+    "sloganEnd": [
+      "avec des chaussures à fermeture éclair"
+    ]
+  },
+  {
+    "category": "D",
+    "whenFirst": "Bonapartisme",
+    "whenSecond": "bonapartiste",
+    "sloganStart": [
+      "un Empire"
+    ],
+    "sloganEnd": [
+      "avec des guerres sans fin",
+      "avec un budget faramineux en couronnement",
+      "avec moins de débats",
+      "avec abolition de la République"
+    ]
+  },
+  {
+    "category": "D",
+    "whenFirst": "capitalo",
+    "whenSecond": "capitaliste",
+    "sloganStart": [
+      "des entreprises",
+      "un pouvoir de l'argent"
+    ],
+    "sloganEnd": [
+      "pour les intérêts privés"
+    ]
+  },
+  {
+    "category": "N",
+    "whenFirst": "",
+    "whenSecond": "centralisé",
+    "sloganStart": [
+      "une organisation centralisée",
+      "une tête pensante",
+      "une élite dirigeante restreinte,"
+    ],
+    "sloganEnd": [
+      "où faut demander la permission à chaque fois",
+      "décidé par le bureau central",
+      "sans autonomie"
+    ]
+  },
+  {
+    "category": "N",
+    "whenFirst": "",
+    "whenSecond": "constitutionnels",
+    "sloganStart": [
+      "une constitution"
+    ],
+    "sloganEnd": [
+      "en plusieurs tomes"
+    ]
+  },
+  {
+    "category": "G",
+    "whenFirst": "communo",
+    "whenSecond": "communiste",
+    "sloganStart": [
+      "une collectivisation"
+    ],
+    "sloganEnd": [
+      "par la collectivisation",
+      "sans monnaie"
+    ]
+  },
+  {
+    "category": "G",
+    "whenFirst": "",
+    "whenSecond": "communaliste",
+    "sloganStart": [
+      "une gestion par commune",
+      "des assemblées locales"
+    ],
+    "sloganEnd": [
+      "décidées à main levée",
+      "décentralisé.e.s",
+      "avec du pouvoir aux communes"
+    ]
+  },
+  {
+    "category": "D",
+    "whenFirst": "",
+    "whenSecond": "conservateur",
+    "sloganStart": [
+      "garder ce qui est rance, mais",
+      "aucun changement, mais"
+    ],
+    "sloganEnd": [
+      "comme avant",
+      "mais on change rien",
+      "sans tirer les erreur du passé"
+    ]
+  },
+  {
+    "category": "G",
+    "whenFirst": "",
+    "whenSecond": "décroissant",
+    "sloganStart": [
+      "moins de consommation, mais"
+    ],
+    "sloganEnd": [
+      "qui produit moins",
+      "en produisant durable"
+    ]
+  },
+  {
+    "category": "N",
+    "whenFirst": "démocrato",
+    "whenSecond": "démocrate",
+    "sloganStart": [
+      "une démocratie"
+    ],
+    "sloganEnd": [
+      "avec des urnes",
+      "avec des élections"
+    ]
+  },
+  {
+    "category": "N",
+    "whenFirst": "",
+    "whenSecond": "dadaïste",
+    "sloganStart": [
+      "une remise en cause des conventions",
+      "une plus grande liberté d'expression",
+      "le refus d'être un mouvement artistique"
+    ],
+    "sloganEnd": [
+      "avec un esprit mutin et caustique",
+      "avec des tenues absurdes",
+      "affichant un mépris total envers les vieilleries du passé",
+      "invitant à réfléchir sur les fondements de la société",
+      "avec une brioche dans la narine gauche",
+      "avec des chapeaux en forme d’entonnoir"
+    ]
+  },
+  {
+    "category": "G",
+    "whenFirst": "écolo",
+    "whenSecond": "écologiste",
+    "sloganStart": [
+      "un avenir propre",
+      "une réduction des gazs à effet de serre",
+      "une planète",
+      "une réduction des énergies non renouvelables"
+    ],
+    "sloganEnd": [
+      "sans pollution",
+      "vert.e"
+    ]
+  },
+  {
+    "category": "N",
+    "whenFirst": "étato",
+    "whenSecond": "étatiste",
+    "sloganStart": [
+      "un état",
+      "un gouvernement",
+      "des institutions"
+    ],
+    "sloganEnd": [
+      "dirigé par l'état",
+      "avec un état fort",
+      "avec un état omniprésent"
+    ]
+  },
+  {
+    "category": "N",
+    "whenFirst": "européano",
+    "whenSecond": "européen",
+    "sloganStart": [
+      "une europe"
+    ],
+    "sloganEnd": [
+      "grâce à l'europe"
+    ]
+  },
+  {
+    "category": "N",
+    "whenFirst": "",
+    "whenSecond": "existentialiste",
+    "sloganStart": [
+      "un existentialisme"
+    ],
+    "sloganEnd": [
+      "non prédéterminées"
+    ]
+  },
+  {
+    "category": "N",
+    "whenFirst": "",
+    "whenSecond": "gaulois",
+    "sloganStart": [
+      "comme avant la France",
+      "un retour aux tribus, mais",
+      "un peuple morcellé"
+    ],
+    "sloganEnd": [
+      "où on parle celte",
+      "sans compromis avec l'Italie",
+      "avec des moustaches et de la cervoise"
+    ]
+  },
+  {
+    "category": "D",
+    "whenFirst": "",
+    "whenSecond": "gaulliste",
+    "sloganStart": [
+      "Une France en ordre,",
+      "un militaire aux commandes, mais",
+      "un pouvoir exécutif fort,"
+    ],
+    "sloganEnd": [
+      "opposé aux projets parlementaires",
+      "par une \"politique de la grandeur\"",
+      "avec des appels à résister à la radio",
+      "dirigé par un général",
+      "avec une main de fer mais sans gant de velour",
+      "avec un képi"
+    ]
+  },
+  {
+    "category": "N",
+    "whenFirst": "",
+    "whenSecond": "indulgents",
+    "sloganStart": [
+      "une indulgence"
+    ],
+    "sloganEnd": [
+      "mais on peut s'arranger",
+      "mais pas trop fort"
+    ]
+  },
+  {
+    "category": "D",
+    "whenFirst": "",
+    "whenSecond": "inflationiste",
+    "sloganStart": [
+      "une inflation"
+    ],
+    "sloganEnd": [
+      "en plus cher"
+    ]
+  },
+  {
+    "category": "G",
+    "whenFirst": "",
+    "whenSecond": "insoumis",
+    "sloganStart": [
+      "une insoumission"
+    ],
+    "sloganEnd": [
+      "dans l'insoumission",
+      "avec une 6e république",
+      "avec un leader colérique"
+    ]
+  },
+  {
+    "category": "G",
+    "whenFirst": "international",
+    "whenSecond": "internationaliste",
+    "sloganStart": [
+      "une nouvelle internationale",
+      "une union transnationale des travailleurs"
+    ],
+    "sloganEnd": [
+      "sans nations ni patrons",
+      "sans frontières"
+    ]
+  },
+  {
+    "category": "G",
+    "whenFirst": "jospino",
+    "whenSecond": "jospinien",
+    "sloganStart": [
+      "un gouvernement en cohabitation",
+      "un espoir de gauche"
+    ],
+    "sloganEnd": [
+      "avec des démissions en cas d'échec"
+    ]
+  },
+  {
+    "category": "D",
+    "whenFirst": "juppéo",
+    "whenSecond": "juppéiste",
+    "sloganStart": [
+      "moins de fonctionnaires, mais"
+    ],
+    "sloganEnd": [
+      "avec des prises illégale d'intérêts"
+    ]
+  },
+  {
+    "category": "G",
+    "whenFirst": "lénino",
+    "whenSecond": "léniniste",
+    "sloganStart": [
+      "une bureaucratie ouvrière centralisée"
+    ],
+    "sloganEnd": [
+      "avec des quotas d'execution"
+    ]
+  },
+  {
+    "category": "D",
+    "whenFirst": "libéral",
+    "whenSecond": "libéral",
+    "sloganStart": [
+      "des privatisations",
+      "un état régalien"
+    ],
+    "sloganEnd": [
+      "sans aide de l'état",
+      "soumis à la loi du plus fort"
+    ]
+  },
+  {
+    "category": "D",
+    "whenFirst": "marcheur",
+    "whenSecond": "macronien",
+    "sloganStart": [
+      "notre projet",
+      "une idéologie court-termiste",
+      "plus de CRS",
+      "un pouvoir aux riches"
+    ],
+    "sloganEnd": [
+      "avec des escalator spitch",
+      "en interprétant mal darwin",
+      "en tronquant la théorie de Darwin",
+      "grâce à un hackaton",
+      "qui fait du porte à porte en costume"
+    ]
+  },
+  {
+    "category": "G",
+    "whenFirst": "marxisto",
+    "whenSecond": "marxiste",
+    "sloganStart": [
+      "une lutte des classes"
+    ],
+    "sloganEnd": [
+      "contre le capital"
+    ]
+  },
+  {
+    "category": "G",
+    "whenFirst": "makhno",
+    "whenSecond": "makhnovien",
+    "sloganStart": [
+      "la lutte révolutionnaire",
+      "des associations librement formées",
+      "une négation de toute dictature"
+    ],
+    "sloganEnd": [
+      "par une armée de paysans",
+      "avec des expropriations",
+      "fondée sur l’existence d’associations librement formées",
+      "avec une méfiance envers tous les partis et l'autorité étatique"
+    ]
+  },
+  {
+    "category": "N",
+    "whenFirst": "mitterano",
+    "whenSecond": "mitterandien",
+    "sloganStart": [
+      "un retour de l'ISF",
+      "une proportionelle totale"
+    ],
+    "sloganEnd": [
+      "avec une valorisation des minima sociaux",
+      "clément avec les terroristes d'extrême-gauche"
+    ]
+  },
+  {
+    "category": "D",
+    "whenFirst": "monarcho",
+    "whenSecond": "monarchiens",
+    "sloganStart": [
+      "un grand monarque",
+      "un homme providentiel"
+    ],
+    "sloganEnd": [
+      "aux mains d'une seule personne",
+      "géré par une seule personne",
+      "avec un despote éclairé"
+    ]
+  },
+  {
+    "category": "D",
+    "whenFirst": "national",
+    "whenSecond": "nationaliste",
+    "sloganStart": [
+      "un Pays",
+      "une Nation",
+      "notre Nation",
+      "une Nation-état"
+    ],
+    "sloganEnd": [
+      "nationale",
+      "avec personne qui rentre"
+    ]
+  },
+  {
+    "category": "N",
+    "whenFirst": "nihilo",
+    "whenSecond": "nihiliste",
+    "sloganStart": [
+      "une vie absurde",
+      "une société absurde"
+    ],
+    "sloganEnd": [
+      "sans but certain",
+      "sans normativités de l'existence"
+    ]
+  },
+  {
+    "category": "N",
+    "whenFirst": "",
+    "whenSecond": "nostalgiques",
+    "sloganStart": [
+      "des souvenirs",
+      "un retour à la France des valeurs"
+    ],
+    "sloganEnd": [
+      "comme avant",
+      "avec les valeurs d'antant",
+      "avec une odeur de soupe",
+      "comme dit mon grand-père"
+    ]
+  },
+  {
+    "category": "G",
+    "whenFirst": "populo",
+    "whenSecond": "populaire",
+    "sloganStart": [
+      "un peuple"
+    ],
+    "sloganEnd": [
+      "pour le peuple et par le peuple"
+    ]
+  },
+  {
+    "category": "N",
+    "whenFirst": "populisme",
+    "whenSecond": "populiste",
+    "sloganStart": [
+      "moins de problèmes, mais",
+      "moins de populisme (des autres),"
+    ],
+    "sloganEnd": [
+      "par LE bon sens",
+      "avec des phrases toutes faites",
+      "parce que yen a marre",
+      "pour supprimer les embouteillages"
+    ]
+  },
+  {
+    "category": "N",
+    "whenFirst": "",
+    "whenSecond": "protectionniste",
+    "sloganStart": [
+      "des quotas d'importations",
+      "sauvegarder des emplois",
+      "un refus du made in china"
+    ],
+    "sloganEnd": [
+      "en sauvegardant des emplois",
+      "avec des quotas d'importation"
+    ]
+  },
+  {
+    "category": "N",
+    "whenFirst": "radicaux",
+    "whenSecond": "radical",
+    "sloganStart": [
+      "un changement à la racine"
+    ],
+    "sloganEnd": [
+      "sans compromis"
+    ]
+  },
+  {
+    "category": "D",
+    "whenFirst": "réformisme",
+    "whenSecond": "réformistes",
+    "sloganStart": [
+      "des réformes",
+      "des petits changements"
+    ],
+    "sloganEnd": [
+      "step by step",
+      "sans froisser la bourgeoisie",
+      "à petit pas"
+    ]
+  },
+  {
+    "category": "G",
+    "whenFirst": "",
+    "whenSecond": "révolutionnaire",
+    "sloganStart": [
+      "renverser l'ordre établit"
+    ],
+    "sloganEnd": [
+      "par la révolution"
+    ]
+  },
+  {
+    "category": "N",
+    "whenFirst": "",
+    "whenSecond": "Robespierristes",
+    "sloganStart": [
+      "des décapitations",
+      "une révolution sanglante"
+    ],
+    "sloganEnd": [
+      "dans la terreur",
+      "avec des tribunaux expéditifs"
+    ]
+  },
+  {
+    "category": "D",
+    "whenFirst": "",
+    "whenSecond": "royaliste",
+    "sloganStart": [
+      "un royaume de France"
+    ],
+    "sloganEnd": [
+      "avec un pouvoir de droit divin",
+      "avec des scissions par descendants",
+      "mais avec un roi"
+    ]
+  },
+  {
+    "category": "D",
+    "whenFirst": "sarko",
+    "whenSecond": "sarkoziste",
+    "sloganStart": [
+      "un nettoyage au karsher",
+      "un état policier",
+      "des talonettes"
+    ],
+    "sloganEnd": [
+      "avec des quotas d'incarcération",
+      "avec plus de flics",
+      "nettoyé au karsher",
+      "financé par des dictateurs étrangers",
+      "avec des financements occultes"
+    ]
+  },
+  {
+    "category": "G",
+    "whenFirst": "socialo",
+    "whenSecond": "socialiste",
+    "sloganStart": [
+      "un socialisme"
+    ],
+    "sloganEnd": [
+      "qui répartit en fonction des besoins"
+    ]
+  },
+  {
+    "category": "N",
+    "whenFirst": "",
+    "whenSecond": "solutioniste",
+    "sloganStart": [
+      "des solutions",
+      "un cadre technique"
+    ],
+    "sloganEnd": [
+      "où tout problème est systématiquement transformé en question technique",
+      "avec des solutions sans problèmes"
+    ]
+  },
+  {
+    "category": "N",
+    "whenFirst": "souveraino",
+    "whenSecond": "souverainistes",
+    "sloganStart": [
+      "un souverainisme",
+      "du tout \"fait maison\""
+    ],
+    "sloganEnd": [
+      "avec un cloud souverain",
+      "fabriqué en France",
+      "hors des influences supranationales",
+      "loin de maaaaastricht",
+      "sans bruxelle",
+      "sans l'europe",
+      "avec des quotas d'importation"
+    ]
+  },
+  {
+    "category": "D",
+    "whenFirst": "stalino",
+    "whenSecond": "stalinien",
+    "sloganStart": [
+      "des goulags"
+    ],
+    "sloganEnd": [
+      "avec des executions sommaires",
+      "avec une économie basé sur le travail forcé"
+    ]
+  },
+  {
+    "category": "G",
+    "whenFirst": "syndicalo",
+    "whenSecond": "syndicaliste",
+    "sloganStart": [
+      "une gréve",
+      "une gréve générale",
+      "un arrêt de la production",
+      "un blocage des entrepôts"
+    ],
+    "sloganEnd": [
+      "où on travaille moins",
+      "avec un rapport de force ouvrier",
+      "avec un code du travail"
+    ]
+  },
+  {
+    "category": "N",
+    "whenFirst": "techno",
+    "whenSecond": "technologiste",
+    "sloganStart": [
+      "un progrès technologique"
+    ],
+    "sloganEnd": [
+      "dirigé par la technologie"
+    ]
+  },
+  {
+    "category": "G",
+    "whenFirst": "trosko",
+    "whenSecond": "trotskyste",
+    "sloganStart": [
+      "un État ouvrier"
+    ],
+    "sloganEnd": [
+      "avec un pouvoir distribué"
+    ]
+  }
+]
