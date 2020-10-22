@@ -78,7 +78,11 @@
       "un pouvoir de l'argent"
     ],
     "sloganEnd": [
-      "pour les intérêts privés"
+      "pour les intérêts privés",
+      "avec uniquement des services payants",
+      "sans logement gratuit",
+      "avec des restrictions d'accès à l'eau potable",
+      "avec des reversements de dividendes importants"
     ]
   },
   {
@@ -93,7 +97,7 @@
     "sloganEnd": [
       "où faut demander la permission à chaque fois",
       "décidé par le bureau central",
-      "sans autonomie"
+      "sans autonomie locale"
     ]
   },
   {
@@ -238,7 +242,10 @@
       "un existentialisme"
     ],
     "sloganEnd": [
-      "non prédéterminées"
+      "non prédéterminées",
+      "où le vécu prévaut sur l'être",
+      "où on valorise le vécu",
+      "non essentialiste"
     ]
   },
   {
@@ -262,7 +269,7 @@
     "whenSecond": "gaulliste",
     "sloganStart": [
       "Une France en ordre,",
-      "un militaire aux commandes, mais",
+      "un militaire aux commandes",
       "un pouvoir exécutif fort,"
     ],
     "sloganEnd": [
@@ -329,10 +336,14 @@
     "whenSecond": "jospinien",
     "sloganStart": [
       "un gouvernement en cohabitation",
-      "un espoir de gauche"
+      "un retrait de la vie politique"
     ],
     "sloganEnd": [
-      "avec des démissions en cas d'échec"
+      "avec des démissions en cas d'échec",
+      "en renforçant la présomption d'innocence",
+      "avec des privatisations en dépits des promesses de campagne",
+      "mais en expliquant que «l'État ne peut pas tout»",
+      "en déclarant « mon projet n'est pas socialiste »"
     ]
   },
   {
@@ -343,7 +354,11 @@
       "moins de fonctionnaires, mais"
     ],
     "sloganEnd": [
-      "avec des prises illégale d'intérêts"
+      "avec des prises illégale d'intérêts",
+      "via un système de financement occulte",
+      "avec des peines d'inéligibilité",
+      "en maquillant tout de même l'endettement croissant de la ville avec des artifices bancaires",
+      "en s'extradant au canada"
     ]
   },
   {
@@ -351,10 +366,19 @@
     "whenFirst": "lénino",
     "whenSecond": "léniniste",
     "sloganStart": [
-      "une bureaucratie ouvrière centralisée"
+      "une bureaucratie ouvrière centralisée",
+      "une scission de la famille politique socialiste",
+      "une dictature du prolétariat",
+      "un parti unique",
+      "le despotisme d'une intelligentsia"
     ],
     "sloganEnd": [
-      "avec des quotas d'execution"
+      "avec des quotas d'execution",
+      "par la prise du pouvoir par une minorité révolutionnaire",
+      "en développant le capitalisme, pré-requis au socialisme",
+      "où le parti n'est pas un 'clubs de discussion'",
+      "par des robespierrades caricaturale (d'après trotsky)",
+      "en faisant interdire la constitution de fractions au sein du Parti communiste"
     ]
   },
   {
@@ -375,12 +399,16 @@
     "whenFirst": "marcheur",
     "whenSecond": "macronien",
     "sloganStart": [
-      "notre projet",
+      "notre proooooojet",
       "une idéologie court-termiste",
       "plus de CRS",
-      "un pouvoir aux riches"
+      "des tentatives de ruissellement",
+      "une suppression de l'ISF",
+      "une augmentation du CICE"
     ],
     "sloganEnd": [
+      "en vendant des lits d'hopitaux pour rembourser l'ISF",
+      "en rabotant les allocations chômage pour augmenter le CICE",
       "avec des escalator spitch",
       "en interprétant mal darwin",
       "en tronquant la théorie de Darwin",
@@ -421,7 +449,7 @@
     "whenSecond": "mitterandien",
     "sloganStart": [
       "un retour de l'ISF",
-      "une proportionelle totale"
+      "une proportionnelle totale"
     ],
     "sloganEnd": [
       "avec une valorisation des minima sociaux",
@@ -453,7 +481,7 @@
       "une Nation-état"
     ],
     "sloganEnd": [
-      "nationale",
+      "national.e",
       "avec personne qui rentre"
     ]
   },
@@ -463,7 +491,9 @@
     "whenSecond": "nihiliste",
     "sloganStart": [
       "une vie absurde",
-      "une société absurde"
+      "une société sans but,",
+      "une vie d'errance",
+      "un projet politique flou, mais"
     ],
     "sloganEnd": [
       "sans but certain",
@@ -487,10 +517,12 @@
   },
   {
     "category": "G",
-    "whenFirst": "populo",
+    "whenFirst": "",
     "whenSecond": "populaire",
     "sloganStart": [
-      "un peuple"
+      "un peuple unis",
+      "une démocratie populaire",
+      "une chute des élites"
     ],
     "sloganEnd": [
       "pour le peuple et par le peuple"
@@ -502,12 +534,14 @@
     "whenSecond": "populiste",
     "sloganStart": [
       "moins de problèmes, mais",
-      "moins de populisme (des autres),"
+      "une suppression des embouteillages",
+      "une suppression des impôts"
+
     ],
     "sloganEnd": [
-      "par LE bon sens",
+      "dirigé par LE bon sens, le notre",
       "avec des phrases toutes faites",
-      "parce que yen a marre",
+      "parce que y en a marre",
       "pour supprimer les embouteillages"
     ]
   },
@@ -530,10 +564,12 @@
     "whenFirst": "radicaux",
     "whenSecond": "radical",
     "sloganStart": [
-      "un changement à la racine"
+      "un changement à la racine",
+      "un grand changement"
     ],
     "sloganEnd": [
-      "sans compromis"
+      "sans compromis",
+      "sans alliances consensuelles"
     ]
   },
   {
@@ -547,7 +583,8 @@
     "sloganEnd": [
       "step by step",
       "sans froisser la bourgeoisie",
-      "à petit pas"
+      "à petit pas",
+      "en réformant des réformes"
     ]
   },
   {
@@ -555,10 +592,12 @@
     "whenFirst": "",
     "whenSecond": "révolutionnaire",
     "sloganStart": [
-      "renverser l'ordre établit"
+      "renverser l'ordre établit",
+      "un grand soir"
     ],
     "sloganEnd": [
-      "par la révolution"
+      "par la révolution",
+      "en reprenant tout de zéro"
     ]
   },
   {
@@ -566,7 +605,7 @@
     "whenFirst": "",
     "whenSecond": "Robespierristes",
     "sloganStart": [
-      "des décapitations",
+      "des éxecutions sommaires",
       "une révolution sanglante"
     ],
     "sloganEnd": [
@@ -584,7 +623,7 @@
     "sloganEnd": [
       "avec un pouvoir de droit divin",
       "avec des scissions par descendants",
-      "mais avec un roi"
+      "dirigé par un roi"
     ]
   },
   {
@@ -592,7 +631,7 @@
     "whenFirst": "sarko",
     "whenSecond": "sarkoziste",
     "sloganStart": [
-      "un nettoyage au karsher",
+      "un nettoyage au karsher, mais",
       "un état policier",
       "des talonettes"
     ],
@@ -601,7 +640,8 @@
       "avec plus de flics",
       "nettoyé au karsher",
       "financé par des dictateurs étrangers",
-      "avec des financements occultes"
+      "avec des financements occultes",
+      "via des associations de malfaiteurs"
     ]
   },
   {
@@ -612,7 +652,9 @@
       "un socialisme"
     ],
     "sloganEnd": [
-      "qui répartit en fonction des besoins"
+      "qui répartit en fonction des besoins",
+      "où chacun participe en fonction de ses moyens",
+      "avec accès à l'eau potable"
     ]
   },
   {
@@ -621,11 +663,13 @@
     "whenSecond": "solutioniste",
     "sloganStart": [
       "des solutions",
-      "un cadre technique"
+      "un cadre technique",
+      "une spécification"
     ],
     "sloganEnd": [
       "où tout problème est systématiquement transformé en question technique",
-      "avec des solutions sans problèmes"
+      "avec des solutions sans problèmes",
+      "avec des normes ISO"
     ]
   },
   {
@@ -634,7 +678,8 @@
     "whenSecond": "souverainistes",
     "sloganStart": [
       "un souverainisme",
-      "du tout \"fait maison\""
+      "du tout \"fait maison\"",
+      "une suppression de toute ingérence, mais"
     ],
     "sloganEnd": [
       "avec un cloud souverain",
@@ -651,11 +696,15 @@
     "whenFirst": "stalino",
     "whenSecond": "stalinien",
     "sloganStart": [
+      "L'URSS, mais",
+      "un retour aux goulags",
       "des goulags"
     ],
     "sloganEnd": [
       "avec des executions sommaires",
-      "avec une économie basé sur le travail forcé"
+      "avec une économie basé sur le travail forcé",
+      "en remplaçant une élite oppressive par une autre",
+      "par une propagande sans compromis"
     ]
   },
   {
@@ -669,9 +718,12 @@
       "un blocage des entrepôts"
     ],
     "sloganEnd": [
-      "où on travaille moins",
-      "avec un rapport de force ouvrier",
-      "avec un code du travail"
+      "où on travaille moins pour gagner plus",
+      "en respectant le code du travail",
+      "en bloquant les entrepôts",
+      "en bloquant l'économie",
+      "en déchirant des chemises de DRH",
+      "avec plus de barbecue"
     ]
   },
   {
@@ -679,10 +731,14 @@
     "whenFirst": "techno",
     "whenSecond": "technologiste",
     "sloganStart": [
-      "un progrès technologique"
+      "un progrès technologique",
+      "une grande singularité informatique",
+      "une AI"
     ],
     "sloganEnd": [
-      "dirigé par la technologie"
+      "dirigé par la singularité informatique",
+      "où les décisions sont prises par une AI",
+      "sans humains aux commandes"
     ]
   },
   {
@@ -690,10 +746,17 @@
     "whenFirst": "trosko",
     "whenSecond": "trotskyste",
     "sloganStart": [
-      "un État ouvrier"
-    ],
+      "un appareil de répression inédit",
+      "un État ouvrier",
+      "une révolution permanente",
+      "la Terreur comme système de gouvernement, mais"
+      ],
     "sloganEnd": [
-      "avec un pouvoir distribué"
+      "où toute résistance peut être surmontée par ce seul mot: “fusiller !”",
+      "avec un pouvoir distribué",
+      "autogéré, mais en tuant les mouvement anarchistes",
+      "sans robespierrades caricaturale à la lénine",
+      "en dénonçant le caractère impérialiste de la guerre"
     ]
   }
 ]

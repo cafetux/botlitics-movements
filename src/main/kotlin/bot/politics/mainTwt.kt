@@ -8,10 +8,16 @@ import java.util.concurrent.TimeUnit
 
 private val scheduler = Executors.newScheduledThreadPool(1)
 private val twitter: Twitter = TwitterFactory.getSingleton()
-private val intros = listOf("Aujourd'hui, le mouvement:","Chaque jour, découvrons un mouvement politique:","Avez vous essayé le:","Connaissez vous le courant:")
+private val intros = listOf(
+    "Aujourd'hui, le mouvement:",
+    "Découvrons un mouvement politique:",
+    "Avez vous essayé le:",
+    "Connaissez vous le courant:",
+    "Qui sont les:"
+)
 
 fun main() {
-    scheduler.scheduleAtFixedRate({post(generateRandomMovement())}, 0, 6, TimeUnit.HOURS)
+    scheduler.scheduleAtFixedRate({post(generateRandomMovement())}, 0, 3, TimeUnit.HOURS)
 }
 
 fun post(toPost: String) {
